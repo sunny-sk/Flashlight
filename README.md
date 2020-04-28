@@ -15,7 +15,7 @@ this is a basic flashlight or you can say Torch app
 
 <b>step:3 install dependency</b>
 
-<p> run command : <i>npm install</>
-<b>step:3 run application</b>
+<p> run command : <i>npm install</i></p>
+<b>step:4 run application</b>
 
 <p> run command : <i>npx react-native run-android</i></p>
