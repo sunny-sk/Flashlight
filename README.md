@@ -2,6 +2,11 @@
 <br/>
 this is a basic flashlight or you can say Torch app
 
+<b> Play store link </b>
+<p> https://play.google.com/store/apps/details?id=com.smarty.flashlight </p>
+
+
+
 ##instructions
 
 <b>step:1 cloning the application</b>
@@ -19,3 +24,5 @@ this is a basic flashlight or you can say Torch app
 <b>step:4 run application</b>
 
 <p> run command : <i>npx react-native run-android</i></p>
+
+
